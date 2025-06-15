@@ -22,7 +22,7 @@ The Goal-Based Agent maintains memory of visited locations and uses a goal test 
 
 **Images:**  
 - Initial Room State:
- ![Goal Based Agent Initial State](Assets/GoalBasedInitial.png)
+- ![Goal Based Agent Initial State](Assets/GoalBasedInitial.png)
 
 - Final Output:![Goal Based Agent Final Output](Assets/GoalBasedFinal.png)
 ---
@@ -32,7 +32,7 @@ The Simple Reflex Agent acts only on the current cell's condition without memory
 
 **Images:**  
 - Initial Room State:
- ![Simple Reflex Agent Initial](Assets/SimpleReflexAgentInitial.png)
+- ![Simple Reflex Agent Initial](Assets/SimpleReflexAgentInitial.png)
 - Final Output: ![Simple Reflex Agent Final Output](Assets/SimpleReflexAgentFinal.png)
 ---
 
@@ -42,6 +42,6 @@ The Utility-Based Agent evaluates possible moves based on a utility function bal
 
 **Images:**  
 - Initial Room State:
- ![Utility Based Agent Initial](Assets/UtilityBasedAgentInitial.png)
+- ![Utility Based Agent Initial](Assets/UtilityBasedAgentInitial.png)
 - Final Output:![Utility Based Agent Output](Assets/UtilityBasedAgentFinal.png)
 ---
